@@ -12,6 +12,8 @@
 4. 使用hydra爆破ssh密码，字典为22.txt。
 5. 具体步骤请参考day2.pdf
 
+##DAY 3
+
 [1]:https://pan.baidu.com/s/1j6dCUqH44RF9Ic5xmZLl8Q 
 [2]:https://www.vmware.com
 [3]:https://www.kali.org
