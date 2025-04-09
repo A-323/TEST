@@ -15,8 +15,7 @@
 ## DAY3
 1. 利用setoolkit制作钓鱼网站。
 2. 使用Burp Suite暴力破解账号与密码。
-3. 使用Burp Suite探索业务逻辑漏洞。
-4. 具体步骤请参考day3.pdf
+3. 具体步骤请参考day3.pdf
 
 
 
