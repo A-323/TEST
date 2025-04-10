@@ -17,6 +17,9 @@
 2. 使用Burp Suite暴力破解账号与密码。
 3. 具体步骤请参考day3.pdf
 
+## DAY4
+1.使用Burp Suite探索业务逻辑漏洞。
+
 
 
 [1]:https://pan.baidu.com/s/1j6dCUqH44RF9Ic5xmZLl8Q 
