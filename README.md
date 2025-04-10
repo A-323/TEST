@@ -18,9 +18,9 @@
 3. 具体步骤请参考day3.pdf
 
 ## DAY4
-1.使用Burp Suite探索业务逻辑漏洞。
-2.探索储存型XSS漏洞。
-3.探索CSRF漏洞。
+1. 使用Burp Suite探索业务逻辑漏洞。
+2. 探索储存型XSS漏洞。
+3. 探索CSRF漏洞。
 
 
 
